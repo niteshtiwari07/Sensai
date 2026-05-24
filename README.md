@@ -19,7 +19,7 @@ A clean, AI-powered career coaching platform that offers interview preparation, 
 ### Backend
 - **Next.js (API routes):** Handling server-side logic and API endpoints.
 - **Inngest:** Scheduling and executing background jobs (e.g., weekly industry insights updates).
-- **Clerk:** User authentication and session management.
+
 - **Google Gemini API:** AI services powering content generation and personalized coaching features.
 
 ### Database
